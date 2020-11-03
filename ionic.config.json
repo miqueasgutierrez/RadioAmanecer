@@ -1,0 +1,7 @@
+{
+  "name": "RadioAmanecer",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

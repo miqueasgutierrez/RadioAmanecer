@@ -1,0 +1,21 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+     En Vivo
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+<ion-content [fullscreen]="true">
+
+     <ion-row>
+      <ion-col><img class="center" src="https://radioamanecer1025fm.com/assets/images/logo.png" height="100" /></ion-col>
+    </ion-row>
+
+    <div class="play" >
+  <button ion-button dark (click)="play()"> <ion-icon name="play"></ion-icon></button>
+  <button ion-button dark (click)="pause()"> <ion-icon name="pause"></ion-icon></button>
+</div>
+
+
+</ion-content>
+
