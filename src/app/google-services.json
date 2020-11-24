@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "860491251867",
+    "firebase_url": "https://radio-amanecer-102.firebaseio.com",
+    "project_id": "radio-amanecer-102",
+    "storage_bucket": "radio-amanecer-102.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860491251867:android:3072abeaff18a5a5ac063e",
+        "android_client_info": {
+          "package_name": "com.radioamanecer.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860491251867-9k1at7cnah1lvje1pl9713u3cnhfq1vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWkLzz3BvcvMdrPuPc_hXGTVVfMmc4VIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860491251867-9k1at7cnah1lvje1pl9713u3cnhfq1vs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
