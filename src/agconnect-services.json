@@ -1,0 +1,35 @@
+{
+	"agcgw":{
+		"backurl":"connect-dre.dbankcloud.cn",
+		"url":"connect-dre.hispace.hicloud.com"
+	},
+	"client":{
+		"appType":"1",
+		"cp_id":"2640058000000156464",
+		"product_id":"736430079244711245",
+		"client_id":"501664025298338880",
+		"client_secret":"A70292EA5159FAE6307AB9A9DF9C40CBF6FD9907E224DD0FC0E2CA276D3461F3",
+		"project_id":"736430079244711245",
+		"app_id":"103324609",
+		"api_key":"CgB6e3x9Bmopkdf3VKKZT/Y22WoqjDOs2cQZQSGVOBnWUlHusLVjwxfvRJO4FlkwqYVZ/nNz+vHFBgLNw5dBLdMX",
+		"package_name":"com.radioamanecer.app"
+	},
+	"service":{
+		"analytics":{
+			"collector_url":"datacollector-dre.dt.hicloud.com,datacollector-dre.dt.dbankcloud.cn",
+			"resource_id":"p1",
+			"channel_id":""
+		},
+		"search":{
+			"url":"https://search-dre.cloud.huawei.com"
+		},
+		"cloudstorage":{
+			"storage_url":"https://ops-dre.agcstorage.link"
+		},
+		"ml":{
+			"mlservice_url":"ml-api-dre.ai.dbankcloud.com,ml-api-dre.ai.dbankcloud.cn"
+		}
+	},
+	"region":"DE",
+	"configuration_version":"1.0"
+}
